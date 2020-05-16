@@ -14,7 +14,6 @@
     "build-prod-with-test": "npm run test && parcel build src/index.html",
     "prettier_all": "prettier  --write src/**/*.js"
   },
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",

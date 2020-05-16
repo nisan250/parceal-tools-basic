@@ -1,4 +1,21 @@
-/* h1 {
-  color: white;
-  background-color: black;
+/* :fullscreen {
+  background-color: aquamarine;
+} */
+
+
+/* 
+a, b {
+  color: red;
+
+  & c, & d {
+    color: white;
+  }
+} */
+/* 
+body {
+  background-color: pink;
+} */
+
+/* .image {
+  background: url('./images/background.png');
 } */

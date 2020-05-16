@@ -2,3 +2,5 @@ mkdir myapp
 cd myapp
 npm init -y
 npm install --save-dev parcel-bundler @babel/core @babel/preset-env postcss-modules autoprefixer eslint prettier eslint-config-prettier eslint-plugin-prettier
+
+npm install postcss-nesting --save-dev

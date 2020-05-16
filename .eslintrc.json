@@ -1,5 +1,8 @@
 {
-  "rules": {},
+  "rules": {
+    "semi": "error",
+    "no-console": 1
+  },
   "env": {
     "es6": true,
     "browser": true
